@@ -32,7 +32,7 @@ I'm a 4th year student studying Web Development at Oulu University of Applied Sc
 
 ## PROJECTS
 
-Haltian Company Oriented Project: https://github.com/onyxzz/haltian-company-project
+Haltian Company Oriented Project: [https://github.com/onyxzz/haltian-company-project](https://main--lustrous-platypus-be1445.netlify.app/)
 
 ## 📊GitHub Stats :
 
