@@ -14,6 +14,7 @@ I'm a 4th year student studying Web Development at Oulu University of Applied Sc
 **Frameworks/Platforms:**
 
 - ReactJS
+- NextJS
 - NodeJS
 - TailwindCSS
 - Web API
