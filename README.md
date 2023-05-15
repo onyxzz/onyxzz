@@ -9,7 +9,6 @@ I'm a 4th year student studying Web Development at Oulu University of Applied Sc
 **Programming Languages:**
 
 - JavaScript
-- TypeScript
 
 **Frameworks/Platforms:**
 
