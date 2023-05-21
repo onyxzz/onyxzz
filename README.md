@@ -44,4 +44,5 @@ I'm a 4th year student studying Web Development at Oulu University of Applied Sc
     - Prototype and develop a user interface design that meets the project requirements
     - Translate design concepts into functional user interfaces using coding languages
     - Ensure the user interface is responsive, accessible, and optimized for performance across different screen sizes
+    - Intergrate back-end to front-end
 
