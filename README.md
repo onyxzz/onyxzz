@@ -15,6 +15,7 @@ I'm a 4th year student studying Web Development at Oulu University of Applied Sc
 - ReactJS
 - NextJS
 - NodeJS
+- ExpressJS
 - TailwindCSS
 - Web API
 
